@@ -1,0 +1,49 @@
+# Visual audit S2Webs
+
+- desktop index: status=200, h2=9, overflow=False, broken_images=0
+- desktop services: status=200, h2=8, overflow=False, broken_images=0
+- desktop web-design: status=200, h2=10, overflow=False, broken_images=0
+- desktop affordable-seo: status=200, h2=12, overflow=False, broken_images=0
+- desktop ecommerce-website-design: status=200, h2=11, overflow=False, broken_images=0
+- desktop lightning-platform: status=200, h2=5, overflow=False, broken_images=0
+- desktop website-health-check: status=200, h2=6, overflow=False, broken_images=0
+- desktop portfolio: status=200, h2=4, overflow=False, broken_images=0
+- desktop portfolio-search: status=200, h2=1, overflow=False, broken_images=0
+- desktop case-studies: status=200, h2=6, overflow=False, broken_images=0
+- desktop why-it-seeze: status=200, h2=5, overflow=False, broken_images=0
+- desktop uk-support-network: status=200, h2=6, overflow=False, broken_images=0
+- desktop careers: status=200, h2=4, overflow=False, broken_images=0
+- desktop compare: status=200, h2=6, overflow=False, broken_images=0
+- desktop prices: status=200, h2=3, overflow=False, broken_images=0
+- desktop spark-package: status=200, h2=9, overflow=False, broken_images=0
+- desktop lightning-package: status=200, h2=9, overflow=False, broken_images=0
+- desktop shop-package: status=200, h2=9, overflow=False, broken_images=0
+- desktop blog: status=200, h2=4, overflow=False, broken_images=0
+- desktop contact: status=200, h2=4, overflow=False, broken_images=0
+- desktop quick-quote: status=200, h2=6, overflow=False, broken_images=0
+- desktop faqs: status=200, h2=10, overflow=False, broken_images=0
+- mobile index: status=200, h2=9, overflow=False, broken_images=0
+- mobile services: status=200, h2=8, overflow=False, broken_images=0
+- mobile web-design: status=200, h2=10, overflow=False, broken_images=0
+- mobile affordable-seo: status=200, h2=12, overflow=False, broken_images=0
+- mobile ecommerce-website-design: status=200, h2=11, overflow=False, broken_images=0
+- mobile lightning-platform: status=200, h2=5, overflow=False, broken_images=0
+- mobile website-health-check: status=200, h2=6, overflow=False, broken_images=0
+- mobile portfolio: status=200, h2=4, overflow=False, broken_images=0
+- mobile portfolio-search: status=200, h2=1, overflow=False, broken_images=0
+- mobile case-studies: status=200, h2=6, overflow=False, broken_images=0
+- mobile why-it-seeze: status=200, h2=5, overflow=False, broken_images=0
+- mobile uk-support-network: status=200, h2=6, overflow=False, broken_images=0
+- mobile careers: status=200, h2=4, overflow=False, broken_images=0
+- mobile compare: status=200, h2=6, overflow=False, broken_images=0
+- mobile prices: status=200, h2=3, overflow=False, broken_images=0
+- mobile spark-package: status=200, h2=9, overflow=False, broken_images=0
+- mobile lightning-package: status=200, h2=9, overflow=False, broken_images=0
+- mobile shop-package: status=200, h2=9, overflow=False, broken_images=0
+- mobile blog: status=200, h2=4, overflow=False, broken_images=0
+- mobile contact: status=200, h2=4, overflow=False, broken_images=0
+- mobile quick-quote: status=200, h2=6, overflow=False, broken_images=0
+- mobile faqs: status=200, h2=10, overflow=False, broken_images=0
+
+## Issues
+- None

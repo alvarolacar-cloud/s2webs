@@ -179,7 +179,7 @@ def render_labeled_line(label: str, value: str) -> str:
     esc = html.escape(value)
     normalized = label.lower()
     if normalized in {"h1"}:
-        return f"<h2>{esc}</h2>"
+        return f"<h3>{esc}</h3>"
     if normalized in {"título", "titulo"}:
         return f"<h3>{esc}</h3>"
     if normalized in {"subtítulo", "subtitulo"}:
@@ -384,14 +384,6 @@ def build_page(slug: str, lines: list[str]) -> str:
         </div>
       </section>
       {render_sections(slug, sections)}
-      <section class="page-section related-section">
-        <div class="page">
-          <h2>Más páginas</h2>
-          <div class="related-grid">
-            {related_pages(slug)}
-          </div>
-        </div>
-      </section>
     </main>
 
     <footer class="footer">
