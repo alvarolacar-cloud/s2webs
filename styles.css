@@ -723,11 +723,22 @@ p {
 
 @media (max-width: 1050px) {
   .menu {
-    display: none;
+    grid-column: 1 / -1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 12px 22px;
+    padding-bottom: 18px;
   }
 
   .nav {
-    grid-template-columns: 1fr auto;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    gap: 18px 28px;
+  }
+
+  .nav-cta {
+    justify-self: end;
   }
 
   .hero-grid,
@@ -781,8 +792,9 @@ p {
 
   .nav {
     grid-template-columns: 1fr;
-    gap: 0;
+    gap: 14px;
     min-height: 74px;
+    padding: 16px 0;
   }
 
   .brand {
@@ -791,6 +803,13 @@ p {
 
   .nav-cta {
     display: none;
+  }
+
+  .menu {
+    grid-column: auto;
+    gap: 10px 16px;
+    padding-bottom: 0;
+    font-size: 13px;
   }
 
   .btn {

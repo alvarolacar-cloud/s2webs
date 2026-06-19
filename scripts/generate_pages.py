@@ -392,7 +392,9 @@ def build_page(slug: str, lines: list[str]) -> str:
           <a href="index.html">Inicio</a>
           <a href="services.html">Servicios</a>
           <a href="portfolio.html">Portfolio</a>
+          <a href="why-it-seeze.html">Por qué</a>
           <a href="prices.html">Precios</a>
+          <a href="blog.html">Blog</a>
           <a href="contact.html">Contacto</a>
         </div>
         <div>
